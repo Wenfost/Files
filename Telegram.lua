@@ -76,4 +76,3 @@ function telegram.getLastUpdate()
 end
 
 return telegram
-
